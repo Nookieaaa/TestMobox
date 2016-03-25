@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency rates</string>
+    <string name="buy">Buy: %s</string>
+    <string name="sale">Sale: %s</string>
+    <string name="currency_image_description">currency image</string>
+    <string name="current_time_text">Current time: %s</string>
+    <string name="dialog_timer_title">Current time</string>
+    <string name="ok">Ok</string>
+</resources>

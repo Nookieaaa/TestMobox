@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Курс валют</string>
+    <string name="buy">Покупка: %s</string>
+    <string name="currency_image_description">Картинка</string>
+    <string name="current_time_text">Текущее время: %s</string>
+    <string name="dialog_timer_title">Текущее время</string>
+    <string name="ok">Ok</string>
+    <string name="sale">Продажа: %s</string>
+</resources>
